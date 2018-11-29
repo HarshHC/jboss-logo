@@ -17,3 +17,6 @@ After developing your logo, you are requested to create a folder containing all 
 Please send a PR with the name as `<your_name>_For_Mobile_Logo` or `<your_name>_For_Web_Logo` . Include a link (Google Drive Link) to your final output(Short Video Clip/Screen Cast Video) in the PR message.
 
 After reviewing all the logos, we may select one of them for our mobile and web application splash screen.
+
+#Logo 
+![anim-logo]((https://user-images.githubusercontent.com/22834172/49240187-a511a180-f42a-11e8-85b6-d54ff77b7993.gif)
